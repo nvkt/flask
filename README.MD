@@ -1,0 +1,1 @@
+# Flask based Web Dashboard for Raspberry PI AI camera
